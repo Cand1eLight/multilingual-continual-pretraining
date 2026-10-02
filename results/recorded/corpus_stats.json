@@ -1,0 +1,80 @@
+{
+  "zh_train": {
+    "documents": 10000,
+    "characters": 2559755,
+    "median_characters": 239.0,
+    "mean_tokens": 405.1301,
+    "median_tokens": 379.0,
+    "p95_tokens": 608.0
+  },
+  "zh_dev": {
+    "documents": 500,
+    "characters": 126561,
+    "median_characters": 240.0,
+    "mean_tokens": 401.008,
+    "median_tokens": 383.0,
+    "p95_tokens": 598.6499999999994
+  },
+  "zh_test": {
+    "documents": 1000,
+    "characters": 257931,
+    "median_characters": 242.0,
+    "mean_tokens": 408.794,
+    "median_tokens": 385.0,
+    "p95_tokens": 604.4999999999995
+  },
+  "en_test": {
+    "documents": 1000,
+    "characters": 787177,
+    "median_characters": 738.0,
+    "mean_tokens": 206.082,
+    "median_tokens": 192.0,
+    "p95_tokens": 307.14999999999986
+  },
+  "en_rehearsal": {
+    "documents": 1200,
+    "characters": 952935,
+    "median_characters": 718.0,
+    "mean_tokens": 210.18416666666667,
+    "median_tokens": 187.0,
+    "p95_tokens": 389.04999999999995
+  },
+  "pt_train": {
+    "documents": 10000,
+    "characters": 7461895,
+    "median_characters": 699.0,
+    "mean_tokens": 255.9446,
+    "median_tokens": 238.0,
+    "p95_tokens": 397.0499999999993
+  },
+  "pt_dev": {
+    "documents": 500,
+    "characters": 370056,
+    "median_characters": 697.5,
+    "mean_tokens": 253.636,
+    "median_tokens": 238.0,
+    "p95_tokens": 386.2499999999998
+  },
+  "pt_test": {
+    "documents": 1000,
+    "characters": 747168,
+    "median_characters": 703.0,
+    "mean_tokens": 256.337,
+    "median_tokens": 239.0,
+    "p95_tokens": 399.0
+  },
+  "tokenization_efficiency": {
+    "chinese": {
+      "documents": 500,
+      "characters": 127871,
+      "tokens": 203134,
+      "tokens_per_character": 1.588585371194407
+    },
+    "english": {
+      "documents": 500,
+      "characters": 402959,
+      "tokens": 107560,
+      "tokens_per_character": 0.2669254192113838
+    }
+  }
+}

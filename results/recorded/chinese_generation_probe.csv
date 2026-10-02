@@ -1,0 +1,31 @@
+model,prompt,completion,chinese_character_rate
+base,从前，有一只胆小的小熊,"ot. He had an old bike which he used to ride around the park.
+One day, he decided to ride his bike to the ice cream shop. He got his bike ready and started to ride. On the way he passed a big pond, where he saw a duck swimming.
+The duck quacked, ""Hello! Where are you headed?""
+""I'm going to the ice cream shop,"" replied Timmy.
+The duck said, ""Can I come with you?""
+Timmy smiled and said, ""Sure! We're going to",0.0
+base,"小雨问机器人：""你为什么难过？""","lace. He was really excited as he had been planning his trip. He put on his shoes, grabbed his map and ran out the door.
+On the way he saw a big pond. He ran over to the pond and jumped in. The water was so cool and refreshing. He smiled and started to splash around. 
+He stayed in the pond for a while. He found a stick and started to draw in the water. He made a big circle and waved it around. He even made a little wave with his hand. 
+He was so excited that he had",0.0
+base,在没有太阳的村庄里,"Yreals! She was very excited because it was her birthday and her mum and dad had promised to take her to the park. 
+When they got to the park, Linda tried to make a big, big sandcastle. She worked very hard, but it just wouldn't stay up. She was very frustrated. 
+Suddenly, her dad said, ""Linda, why don't you try to make it stronger? I'm sure it will be nice!"" 
+Linda smiled and tried again. She put more sand on top, and soon it was",0.0
+Chinese-only,从前，有一只胆小的小熊,"名叫提米的小男孩。提米喜欢笑着和她的玩具一起玩。他们喜欢玩玩具，还有很多冒险。有一天，提米的妈妈给他一个诚实，他决定在他的房间里玩耍。
+提米很伤心，因为他做",0.8961038961038961
+Chinese-only,"小雨问机器人：""你为什么难过？""","他们感到很难过，然后妈妈说：“当然可以，你们把你的雨回来，很快就感觉好了。”
+蒂姆和雨链从抱歉，他们把雨停了。他们看到他们的雨玩整理雨，觉得很酷。",0.8472222222222222
+Chinese-only,在没有太阳的村庄里,"，他们互相帮助。他们喜欢吃粉红色的水！它们有一个灌木丛中的热感觉的热巧克力。莉莉看到它们的惊喜，着滑梯顾住了。
+妈妈说：“莉莉，我们必须去�����",0.8082191780821918
+ZH+EN rehearsal,从前，有一只胆小的小熊,"名叫提米。提米喜欢在草地上探索了一个洗的地方。他们喜欢在院子里玩耍，发现了一只大弄坏快乐的大胡萝卜。提米喜欢玩耍和洗笑坏。
+提米想吃这个胡萝卜，所以他�������",0.8395061728395061
+ZH+EN rehearsal,"小雨问机器人：""你为什么难过？""","""你对"" 汤姆说，""你没有朋友。""
+""我不能让"" 雨。"" 一只快乐的小猫猫叫,"" 雨说。
+""没关系，我会骄傲,"" 萨姆说。
+""是的，我可以让你们找到了玩具。我们可以一起什么。”
+他们",0.7195121951219512
+ZH+EN rehearsal,在没有太阳的村庄里,"。它们有一只游泳和它们。但有一天，一个坏人发生了一个坏东西。他爬上爬。
+爬上坏了一整天，说：“你好，坏。” 他说：“好的，我们一起玩，” 杏爬下来。
+莉莉很高兴能帮忙。他们",0.7804878048780488

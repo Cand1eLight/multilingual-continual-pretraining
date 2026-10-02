@@ -1,0 +1,10 @@
+{
+  "model_id": ".\\official_course\\llama-42m",
+  "parameters": 41689600,
+  "data_provenance": "official course archive",
+  "seed": 7021,
+  "block_size": 256,
+  "device": "NVIDIA GeForce RTX 4060",
+  "torch": "2.11.0+cu128",
+  "cuda_available": true
+}

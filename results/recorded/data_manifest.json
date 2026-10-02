@@ -1,0 +1,46 @@
+{
+  "seed": 7021,
+  "provenance": "course-provided files under data/course",
+  "splits": {
+    "zh_train": {
+      "documents": 10000,
+      "sha256": "2b5ac8059a15348696644caa07fd9cf34152f1d7ed7b879dc04608058a076b14",
+      "path": "data\\processed\\zh_train.jsonl"
+    },
+    "zh_dev": {
+      "documents": 500,
+      "sha256": "2b15cf0fdbd5e3d7ee424d4dee05bf1c09e96801fb9f459b384dc2b45ff4aa18",
+      "path": "data\\processed\\zh_dev.jsonl"
+    },
+    "zh_test": {
+      "documents": 1000,
+      "sha256": "d7b53b60b74cc39934dfd13a4ec28d52544c633b6baef7a177a315b7fa1a7fe2",
+      "path": "data\\processed\\zh_test.jsonl"
+    },
+    "en_test": {
+      "documents": 1000,
+      "sha256": "51fa2a05d90c9332249da58327d36044fac9e66568abb9634a41beabdd34bd4f",
+      "path": "data\\processed\\en_test.jsonl"
+    },
+    "en_rehearsal": {
+      "documents": 1200,
+      "sha256": "980e31449b333d4af1bfc8afb87b0ae295a6a06b8da494add83e7b9e1efb702d",
+      "path": "data\\processed\\en_rehearsal.jsonl"
+    },
+    "pt_train": {
+      "documents": 10000,
+      "sha256": "80600b272a52d18ee28e98959ae2749aca90c77eba4140425ede81a29f5d457c",
+      "path": "data\\processed\\pt_train.jsonl"
+    },
+    "pt_dev": {
+      "documents": 500,
+      "sha256": "fb0ed527957541bcc35cef18a694c2e4ca02f3546db646083eb9a5d5a3220651",
+      "path": "data\\processed\\pt_dev.jsonl"
+    },
+    "pt_test": {
+      "documents": 1000,
+      "sha256": "88eb4f888d59dbcdb85b429d23e0e98c644635c31cdc32f3dbbd47c00b22491e",
+      "path": "data\\processed\\pt_test.jsonl"
+    }
+  }
+}

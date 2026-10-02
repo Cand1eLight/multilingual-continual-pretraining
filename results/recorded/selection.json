@@ -1,0 +1,7 @@
+{
+  "chosen_learning_rate": 0.0002,
+  "criterion": "lowest Chinese development perplexity after an equal 80-step budget",
+  "final_steps": 1200,
+  "chinese_only_seconds": 157.3039562000049,
+  "rehearsal_seconds": 146.55868159999955
+}
